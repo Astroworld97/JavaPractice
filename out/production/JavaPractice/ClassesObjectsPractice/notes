@@ -1,0 +1,15 @@
+Notes:
+
+1. A comment is text in your code that doesn't get compiled and doesn't run. Use it for notes.
+2. // makes a single-line comment in Java.
+3. To make multiline comments:
+ /*
+  write comment here
+ */
+
+ 4. Highlight everything you want to comment and hit Ctrl + / to comment it out all at once.
+ 5. Instance variables (also called global variables) are variables that are accessible from anywhere in the class.
+ 6. Functions (also called methods) perform a specific action or task.
+ 7. To make a string, write text surrounded by quotation marks.
+ 8. Constructors allow you to construct (aka create) objects of that class. They look like functions, but they are different bc they don't have public/private.
+ 9. Getter methods

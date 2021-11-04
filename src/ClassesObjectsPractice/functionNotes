@@ -1,0 +1,8 @@
+Function notes:
+1. Think of function as a box or machine that takes input and returns output.
+2. Structure of function:
+
+public returnType functionName(inputType inputName){
+    ...code...
+    return somethingOfReturnType;
+}

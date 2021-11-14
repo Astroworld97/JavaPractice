@@ -6,13 +6,17 @@ Ex:
 int x = 3;
 int y = 10;
 
-2. There are several basic variable types:
+2. There are several basic variable types (aka primitives):
 
 a. int -> defines a whole number. Ex. 1, 2, 100, 34, 55, 366, etc.
 b. String -> defines a set of letters or characters. Surround with double quotations. Can include any type of symbols. Can be anything ranging from one symbol to a word to a sentence to a paragraph, etc.
-Ex. "apple", "Hello", "你好"，"My name is Bobby."
+Ex. "apple", "Hello", "你好"，"My name is Bobby." ***Note that a String in Java is an object, not a primitive.***
 c. double/float -> defines numbers with decimals. Ex. 0.5, 1.2, 3.11, 134.567, etc.
 d. char -> defines single characters. Surround with single quotations. Ex. 'a','b','1','?','+','你'
 e. boolean -> define true and false. Think of it as the 0's and 1's in a computer or like a switch.
 Ex. amIHungry = true; isLyingGood = false;
 f. When you add a string and anything else (another string, a double, an int, etc), it concatenates them. If one of them is not a string, it gets cast into (aka turned into) a string and is then concatenated. Concatenating is adding text to a string.
+
+Objects: Variables that are not primitives. Primitive types are written in lowercase, while Object types are capitalized. You can create your own types of Objects using classes, whereas primitives are limited to the ones defined by Java.
+
+Ex. String, Scanner, Animal, Pokemon, Pizza...

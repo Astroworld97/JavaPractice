@@ -6,3 +6,10 @@ public returnType functionName(inputType inputName){
     ...code...
     return somethingOfReturnType;
 }
+
+access modifiers: public/private/protected/default
+
+Public variables or methods can be used in different files.
+Private variables or methods cannot be used in different files.
+
+More info on access modifiers here: https://iq.opengenus.org/public-private-protected-in-java/
